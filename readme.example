@@ -1,0 +1,5 @@
+ python manage.py s
+hell
+
+
+-koi object ka data check get karne ke liye ===  from django.contrib.auth.models import *, User.objects.all(),User.objects.all()[0].password
